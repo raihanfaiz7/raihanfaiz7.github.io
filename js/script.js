@@ -1,3 +1,6 @@
+/* Nama : Raihan Faiz Alfarras
+   NIM : 10122410
+   Kelas : IF-11*/
 const header = document.querySelector('header');
 
 window.addEventListener('scroll', function () {
